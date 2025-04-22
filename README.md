@@ -12,9 +12,9 @@ Usa PostgreSQL como banco de dados
 
 # Requisitos
 
-Python 3.8+
-PostgreSQL instalado e rodando
-pip ou virtualenv para gerenciamento de pacotes
+- Python 3.8+
+- PostgreSQL instalado e rodando
+- pip ou virtualenv para gerenciamento de pacotes
 
 # Configuração
 
