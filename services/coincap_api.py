@@ -13,8 +13,6 @@ def fetch_cryptos(limit=10):
     cryptos = []
     prices = []
 
-    print(timestamp)
-
     for item in data:
         cryptos.append({
             'id': item['id'],

@@ -29,8 +29,8 @@ Crie um arquivo .env na raiz do projeto com os dados de acesso ao banco de dados
 ```env
 DB_HOST=localhost
 DB_PORT=5432
-DB_NAME=crypto_db
-DB_USER=crypto_user
+DB_NAME=nome_banco
+DB_USER=nome_usuario
 DB_PASSWORD=minha_senha
 API_KEY=chave_api
 ```
@@ -47,3 +47,9 @@ Se tudo estiver correto, você verá:
 ```bash
 Dados inseridos com sucesso.
 ```
+
+# Integração com Power BI
+
+Coleta os dados:
+1. Tive que usar o looker devido a problemas com acesso ao power Bi.
+2. As análises se encontram neste link do looker: https://lookerstudio.google.com/u/0/reporting/45e894c7-85ef-40ee-80b3-9b341207fcc9/page/75xHF/edit
