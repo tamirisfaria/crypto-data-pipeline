@@ -51,5 +51,5 @@ Dados inseridos com sucesso.
 # Integração com Power BI
 
 Coleta os dados:
-1. Tive que usar o looker devido a problemas com acesso ao power Bi.
-2. As análises se encontram neste link do looker: https://lookerstudio.google.com/u/0/reporting/45e894c7-85ef-40ee-80b3-9b341207fcc9/page/75xHF/edit
+1. Tive que usar o looker devido a problemas com acesso ao power Bi e utilizar uma ferramentado do site https://console.cloud.timescale.com/dashboard/services/x9ajahmron/overview para conectar o meu banco que esta como local e ser visualizado como remoto.
+2. As análises se encontram neste link do looker: [https://lookerstudio.google.com/u/0/reporting/45e894c7-85ef-40ee-80b3-9b341207fcc9/page/75xHF/edit](https://lookerstudio.google.com/reporting/19fffe28-f015-426d-84c2-53620aff8269)
